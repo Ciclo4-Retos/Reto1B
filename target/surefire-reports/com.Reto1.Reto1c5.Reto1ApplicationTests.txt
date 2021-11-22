@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Reto1.Reto1c5.Reto1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.839 s - in com.Reto1.Reto1c5.Reto1ApplicationTests
